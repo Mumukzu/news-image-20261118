@@ -1,4 +1,4 @@
-# main.py — news-image-20261118 entry program.
+# main.py — news-image-20261118 entry program (v2).
 # Copies the repository's front-page image (entry.png) to the output directory.
 # Python 3.13 stdlib only, no network, no randomness, no clock: running it
 # twice writes identical bytes.
